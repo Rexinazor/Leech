@@ -1,5 +1,5 @@
 {
-	"name": "Node.Leech",
+	"name": "Node-Leech",
 	"description": "Streaming torrent client for node.js with web ui.",
 	"repository":  "https://github.com/Rexinazor/Leech",
 	"keywords": [
