@@ -1,5 +1,5 @@
 {
-  "name": "peerflix-server",
+  "name": "Node-Leech",
   "version": "0.0.0",
   "dependencies": {
     "angular": "~1.2.16",
