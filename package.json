@@ -1,10 +1,9 @@
 {
-  "name": "peerflix-server",
+  "name": "Node-Leech",
   "version": "0.0.30",
-  "author": "Aliaksei Sapach <dreamsonic@tut.by>",
   "description": "Streaming torrent client for node.js with web ui.",
   "bin": {
-    "peerflix-server": "./server/bin.js"
+    "Node-Leech": "./server/bin.js"
   },
   "scripts": {
     "start": "node ./server/bin.js",
